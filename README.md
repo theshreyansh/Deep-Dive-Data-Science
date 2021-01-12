@@ -1,2 +1,3 @@
-# Deep-Dive-Data-Science
-Exploring 'Data Science'
+# Deep Dive Data Science
+
+Various projects done while exploring data-science
